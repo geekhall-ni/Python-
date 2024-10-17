@@ -1,0 +1,5 @@
+# ninja log v5
+6	395	7330776602137378	CMakeFiles/project.dir/database/database.cpp.obj	e70e9b3e755cd729
+9	404	7330776602234285	CMakeFiles/project.dir/main.cpp.obj	7568497a270172ba
+0	530	7330776603491585	CMakeFiles/project.dir/parser/parser.cpp.obj	3a849fb91b805232
+531	669	7330776604838646	project.exe	a6e89759adcb83de
